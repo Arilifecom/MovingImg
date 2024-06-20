@@ -1,6 +1,6 @@
-<h1>Next.js🌟Transition animations on page enter and exit</h1>
-Enter: Gradient background from left to right<br>
-Exit: Gradient background from right to ledt
+<h1>Next.js🌟Hover to Preview Image display on hover</h1>
+When hover the mouse over an article list, 
+an image is previewed next to the mouse.
 
 <h2>External Libraries used in this project:</h2>
 
@@ -9,4 +9,5 @@ Exit: Gradient background from right to ledt
   <li>Tailwind css</li>
 </ul>
 
-<img width="1375" alt="スクリーンショット 2024-06-10 17 37 07" src="https://github.com/Arilifecom/transitionSlide/assets/97996784/27302e27-3ee8-43c9-b052-edede37ed4d3">
+<img width="1462" alt="スクリーンショット 2024-06-20 11 41 34" src="https://github.com/Arilifecom/MovingImg/assets/97996784/0b618242-c322-4198-aaec-f2d70c4f60f9">
+
